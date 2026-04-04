@@ -1,0 +1,21 @@
+{
+  "name": "gyanschool-web",
+  "version": "1.0.0",
+  "description": "GyanSchool - Professional Education & Learning Platform",
+  "main": "index.html",
+  "type": "module",
+  "scripts": {
+    "dev": "npx http-server -p 3000",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "keywords": [
+    "education",
+    "learning",
+    "gyanschool"
+  ],
+  "author": "CapOasis",
+  "license": "ISC",
+  "dependencies": {
+    "@vercel/speed-insights": "^2.0.0"
+  }
+}
