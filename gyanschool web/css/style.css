@@ -1510,7 +1510,7 @@ img {
 
 /* Coming Soon Styles */
 .coming-soon {
-    position: sticky;
+    position: fixed;
     top: 0;
     left: 0;
     width: 100%;
