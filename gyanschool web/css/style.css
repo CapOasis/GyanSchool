@@ -1510,7 +1510,7 @@ img {
 
 /* Coming Soon Styles */
 .coming-soon {
-    position: fixed;
+    position: sticky;
     top: 0;
     left: 0;
     width: 100%;
@@ -1660,4 +1660,4 @@ img {
     .cs-newsletter {
         flex-direction: column;
     }
-}
+}
