@@ -20,35 +20,58 @@
 
 const courses = [
     {
-        title: "Full Stack Web Development",
-        badge: "FREE",
-        image: "images/course_webdev_1773472270126.png",
+        title: "“White collar” Executive AI package",
+        badge: "₹7999.00",
+        image: "images/course.jpg",
         rating: 4.5,
         ratingText: "(4.8)",
-        description: "Master frontend and backend technologies including HTML, CSS, JavaScript, React, and Node.js. Build scalable web applications.",
-        enrollUrl: "https://lms.capoasis.com/catalog"
+        description: "For your Personal Productivity – Finish 10 hours work in minutes! Build professional Business presentations, quick podcasts, videos, analysis, Quick visuals, summaries, infographics, Process diagrams & more",
+        enrollUrl: "https://lms.capoasis.com/checkout/7"
     },
     {
-        title: "Data Science & Applied AI",
-        badge: "$49",
-        image: "images/course_data_1773472285631.png",
+        title: "AI for Marketing",
+        badge: "₹8999.00",
+        image: "images/course.jpg",
         rating: 5,
         ratingText: "(5.0)",
-        lessons: 32,
-        students: "3k+",
-        description: "Dive deep into Python, Machine Learning, Data Visualization, and Neural Networks. Become a highly sought-after data professional.",
-        enrollUrl: "https://lms.capoasis.com/catalog"
+        description: "Prepare production ready Graphic designs for product & services marketing, video ADs, use your Brand and Content studio, along with Digital Marketing AD campaigns",
+        enrollUrl: "https://lms.capoasis.com/checkout/8"
     },
     {
-        title: "UI/UX Design Masterclass",
-        badge: "$39",
-        image: "images/course_design_1773472300478.png",
+        title: "AI for Finance",
+        badge: "₹9999.00",
+        image: "images/course.jpg",
         rating: 4,
-        ratingText: "(4.2)",
-        lessons: 18,
-        students: "8k+",
-        description: "Learn design thinking, wireframing, prototyping, and modern UI aesthetics using Figma and industry-standard tools.",
-        enrollUrl: "https://lms.capoasis.com/catalog"
+        ratingText: "(4.6)",
+        description: "Impress Managers with dynamic business and Finance CFO-level Dashboards, Build professional Business presentations in minutes with visuals",
+        enrollUrl: "https://lms.capoasis.com/checkout/9"
+    },
+    {
+        title: "AI for Sales",
+        badge: "₹7999.00",
+        image: "images/course.jpg",
+        rating: 4,
+        ratingText: "(4.4)",
+        description: "Run Sales leads generation with quick Digital Marketing AD campaigns, Website making, (Meta, Canva for websites)",
+        enrollUrl: "https://lms.capoasis.com/checkout/10"
+    },
+    {
+        title: "AI for Business Workflow Automation",
+        badge: "₹5999.00",
+        image: "images/course.jpg",
+        rating: 4,
+        ratingText: "(4.1)",
+        description: "Learn common business workflow automations and set new Business rules ahead to make your operations 3-5 times faster, reduce daily manual work",
+        enrollUrl: "https://lms.capoasis.com/checkout/11"
+    },
+    {
+        title: "Degree & MBA Graduate – Business Productivity package",
+        badge: ₹14999.00",
+        image: "images/course.jpg",
+        rating: 4,
+        ratingText: "(4.8)",
+        description: "Boost your Business Productivity at work – finish 10 hours of work in minutes and stand out as the Smart worker in your organization",
+        enrollUrl: "https://lms.capoasis.com/checkout/12"
     },
 
 
