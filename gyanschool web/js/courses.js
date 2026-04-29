@@ -21,7 +21,7 @@
 const courses = [
     {
         title: "“White collar” Executive AI package",
-        badge: "₹7999.00",
+        badge: "₹7999",
         image: "images/course.jpg",
         rating: 4.5,
         ratingText: "(4.8)",
@@ -30,7 +30,7 @@ const courses = [
     },
     {
         title: "AI for Marketing",
-        badge: "₹8999.00",
+        badge: "₹8999",
         image: "images/course.jpg",
         rating: 5,
         ratingText: "(5.0)",
@@ -39,7 +39,7 @@ const courses = [
     },
     {
         title: "AI for Finance",
-        badge: "₹9999.00",
+        badge: "₹9999",
         image: "images/course.jpg",
         rating: 4,
         ratingText: "(4.6)",
@@ -48,7 +48,7 @@ const courses = [
     },
     {
         title: "AI for Sales",
-        badge: "₹7999.00",
+        badge: "₹7999",
         image: "images/course.jpg",
         rating: 4,
         ratingText: "(4.4)",
@@ -57,7 +57,7 @@ const courses = [
     },
     {
         title: "AI for Business Workflow Automation",
-        badge: "₹5999.00",
+        badge: "₹5999",
         image: "images/course.jpg",
         rating: 4,
         ratingText: "(4.1)",
@@ -66,7 +66,7 @@ const courses = [
     },
     {
         title: "Degree & MBA Graduate – Business Productivity package",
-        badge: "₹14000.00",
+        badge: "₹14000",
         image: "images/course.jpg",
         rating: 4,
         ratingText: "(4.8)",
