@@ -191,7 +191,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const mainContent = document.getElementById('main-site-content');
 
     // Set to true for 1-minute testing, false for actual launch date
-    const IS_TESTING = false;
+    const IS_TESTING = true;
 
     // Check if the site was already launched
     const isLaunched = localStorage.getItem('gyanschool_live_launched_official') === 'true';
