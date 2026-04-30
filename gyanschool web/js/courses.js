@@ -40,8 +40,7 @@ const courses = [
     {
         title: "AI for Finance",
         badge: "₹9999",
-        image: "images/ai_finance.jpeg
-",
+        image: "images/ai_finance.jpeg",
         rating: 4,
         ratingText: "(4.6)",
         description: "Impress Managers with dynamic business and Finance CFO-level Dashboards, Build professional Business presentations in minutes with visuals",
