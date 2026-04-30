@@ -52,7 +52,7 @@ const courses = [
         image: "images/course.jpg",
         rating: 4,
         ratingText: "(4.4)",
-        description: "Run Sales leads generation with quick Digital Marketing AD campaigns, Website making, (Meta, Canva for websites)",
+        description: "Run Sales leads generation with quick Digital Marketing AD campaigns, Website making.",
         enrollUrl: "https://lms.capoasis.com/checkout/10"
     },
     {
