@@ -425,10 +425,11 @@ img {
 }
 
 .hero-bullets li {
+    font-weight: 500;
     display: flex;
     align-items: center;
     gap: 0.75rem;
-    font-size: 1.1rem;
+    font-size: 1.2rem;
     color: var(--text-muted);
 }
 
