@@ -446,7 +446,7 @@ img {
     display: flex;
     align-items: center;
     justify-content: center;
-    background: rgba(12, 73, 131, 0.08);
+    background: rgb(12 73 131 / 0%);
     border-radius: 50%;
 }
 
