@@ -66,7 +66,7 @@ const courses = [
     },
     {
         title: "Degree & MBA Graduate – Business Productivity package",
-        badge: "₹14000",
+        badge: "₹14999",
         image: "images/course.jpg",
         rating: 4,
         ratingText: "(4.8)",
