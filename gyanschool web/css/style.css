@@ -407,6 +407,11 @@ img {
     display: inline-block;
 }
 
+.tagline-highlight {
+    color: var(--primary-color);
+    font-weight: 800;
+}
+
 .hero-tagline {
     font-size: 1.35rem;
     font-weight: 700;
