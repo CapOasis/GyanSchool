@@ -877,6 +877,11 @@ img {
     margin-bottom: 1.5rem;
 }
 
+.footer-logo .logo-sub {
+    color: #0C4983;
+    opacity: 1;
+}
+
 .footer-col p {
     color: #9ca3af;
     margin-bottom: 1.5rem;
