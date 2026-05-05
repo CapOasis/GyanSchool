@@ -120,7 +120,7 @@ function renderCourses() {
         card.innerHTML = `
             <div class="course-img">
                 <span class="course-badge">${course.badge}</span>
-                <img src="${course.image}" alt="${course.title}">
+                <img src="${course.image}" alt="${course.title}" loading="lazy">
             </div>
             <div class="course-content">
                 <div class="course-rating" style="color: var(--accent-color); font-size: 0.875rem; margin-bottom: 0.5rem;">
