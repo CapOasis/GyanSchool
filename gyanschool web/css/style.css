@@ -1231,13 +1231,6 @@ img {
     align-items: flex-start;
 }
 
-.highlight-feature {
-    background: rgba(255, 188, 19, 0.05);
-    padding: 1rem;
-    border-radius: var(--border-radius);
-    border: 1px dashed var(--accent-color);
-}
-
 .why-icon {
     flex-shrink: 0;
     width: 52px;
